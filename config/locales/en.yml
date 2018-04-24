@@ -31,3 +31,5 @@
 
 en:
   hello: "Hello world"
+  goodbye: "Goodbye World"
+  patch: "This is a patch"
