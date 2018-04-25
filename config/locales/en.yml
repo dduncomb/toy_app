@@ -24,6 +24,8 @@
 # Instead, surround them with single quotes.
 #
 # en:
+
+You've made some changes here!!
 #   'true': 'foo'
 #
 # To learn more, please read the Rails Internationalization guide
